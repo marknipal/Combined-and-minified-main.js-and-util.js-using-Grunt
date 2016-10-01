@@ -8,3 +8,7 @@ The combined and minified files are located in the dist folder.
 
 The index.html in the test folder uses the combined and minified js.
 
+node_modules is not included here due to upload issues. You may have to install it via npm.
+Click the link below to learn more.
+http://gruntjs.com/getting-started
+
