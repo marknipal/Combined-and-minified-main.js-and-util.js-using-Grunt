@@ -12,3 +12,14 @@ node_modules is not included here due to upload issues. You may have to install 
 Click the link below to learn more.
 http://gruntjs.com/getting-started
 
+
+<b>Getting Started<b>
+
+$cd Combined-and-minified-main.js-and-util.js-using-Grunt
+
+
+Install Dependencies
+
+$npm install
+
+$grunt
